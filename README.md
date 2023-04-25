@@ -1,2 +1,1 @@
-# EC_UCIdataset
-INSE6220-Term-Project
+# EC_INSE6220-Term-Project_042023
